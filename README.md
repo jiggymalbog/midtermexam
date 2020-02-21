@@ -1,5 +1,5 @@
 # WebDev2 Midterm Exam Answer Sheet by Salvador Malbog
-This repository contains my answers to Part 1
+This repository contains my answers to Part 1 and Part 2
 
 ## Part 1 - Multiple Choice
 1. b
@@ -14,12 +14,16 @@ This repository contains my answers to Part 1
 10. b
 
 ## Part 2 - True or False
+1. True
+2. True
+3. True
 4. False
-5. -
-6. -
+5. True
+6. True
 7. True
-8. -
-9. False
+8. False
+9. True
+10. True
 
 ## Part 3 - Version Control using Git and Github
 
